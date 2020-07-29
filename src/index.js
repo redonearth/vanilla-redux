@@ -1,4 +1,4 @@
-import { createStore, bindActionCreators } from "redux";
+import { createStore } from "redux";
 
 const add = document.getElementById("add");
 const minus = document.getElementById("minus");
